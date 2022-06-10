@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lavender;
+}
+
+.navbar{
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: right;
+    width: fit-content;
+}
+
+.section-profil {
+    margin: 50px 50px;
+    width: 90%;
+    padding: 10px 15px;
+    overflow: hidden;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    float:left;
+    margin:3px;
+    margin-left:10px;
+}
+
+.sidebar-left {
+    width: 25%;
+    float: left;
+    margin-left: 40px;
+}
+
+.nama{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.biodata ul li {
+    display: block;
+}
+
+.biodata ul li span {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.sidebar-right {
+    width: 25%;
+    float: right;
+    margin-left: 40px;
+}
+.biodata-2{
+    width: 300px;
+}
+
+.form-input {
+    margin: 0 auto;
+    max-width: max-content;
+    padding: 10px 15px;
+    overflow: hidden;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+#button-style{
+    display: inline-block;
+    background: green;
+    width: 1230px;
+    height: 25px;
+}
